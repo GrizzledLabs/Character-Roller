@@ -33,4 +33,4 @@ while replay == 'Y':
   replay = input('\nRoll again? Y/N:   ').upper()
   while replay not in ('Y', 'N'):
     replay = input('Y/N:   ').upper()
-print('Thanks for using Character Creator by Grizzled Labs!\nFeedback? Email GrizzledLabs@gmail.com')
+print('Thanks for using Character Creator by Grizzled Labs!\nFeedback? Email Hello@GrizzledLabs.com')
